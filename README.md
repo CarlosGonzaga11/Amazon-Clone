@@ -1,5 +1,5 @@
 <div align="center">
-<h2>Amazon Clone/h2>
+<h2>Amazon Clone</h2>
 </div>   
 
 > :rocket: Amazon Clone
